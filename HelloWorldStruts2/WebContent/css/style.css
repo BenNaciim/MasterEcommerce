@@ -1,0 +1,28 @@
+@CHARSET "ISO-8859-1";
+#title{
+	
+	text-align: center;
+}
+#formulaireInscription{
+	text-align: center;
+}
+#registration{
+	text-align : right;
+}
+#loginForm{
+	text-align : right;
+}
+td{
+	text-align : center;
+	border-style: solid;
+	border-color: black;
+	border-width: 2px;
+}
+table{
+		border-collapse : collapse;
+
+}
+body{
+	
+	background-color: #70f17b;
+}
